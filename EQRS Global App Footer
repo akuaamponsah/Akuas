@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<h1>EQRS Global App</h1>
+	<div class="topnav">
+		<a class = "active href= #home" > Home </a>
+		<a href="#about">About</a>
+		<a href ="#contact">Contact</a>
+	</div>
+
+
+	<h2> Manage User Lists 
+	</h2> 
+	<h3> Holly Oaks Dialysis Facility
+	</h3>
+	<div>
+		<input type="text" placeholder="users" =Search>
+		<input type="text" placeholder="organizations" =Search>
+	</div>
+</head>
+	<body>
+
+	<table summary="User Management List">
+		<tr>
+			<th>Full Name </th>
+			<th>User Name</th>
+			<th>Role</th>
+			<th>Approval Date</th>
+			<th>Last Login</th>
+			<th>Action</th>
+	</table>
+	<table>
+		<td>Lovemore</td>
+		<td> alkskjhf</td>
+		<td>Facility POC</td>
+		<td>12/12/17</td>
+		<td>28 days</td>
+		<td>Remove role</td>
+	</table>
+	<table>
+		<tr>
+		<td> Lovemore</td>
+		<td> is984jfsois</td>
+		<td>Facility POC</td>
+		<td>12/12/17</td>
+		<td>10 days</td>
+		<td>Remove role</td>
+		</tr>	
+	</table>
+	<table>
+		<tr>
+		<td> Lovemore</td>
+		<td> mnde5m</td>
+		<td>Facility POC</td>
+		<td>12/12/17</td>
+		<td>10 days</td>
+		<td>Remove role</td>
+	</tr>
+		<! The table goes on but I only wrote three roles to show the structure-->
+	</table>
+	<script> type= "text/ javascript " </script>
+	<div id = "version-footer">
+	 <p> Help shape the future of EQRS by participating in user feedback sessions.
+		<a href= "mailto:eqrsuserresearch@cms.hhs.gov" 
+		target="_top">Send us an email to sign up.</a>
+		<!Link to EQRS User Research to sign up for upcoming research sessions--> 
+	</p>
+	<h3>EQRS : End Stage Renal Disease Reporting System</h3>
+	<ul>
+		<li><a href="https://cms.gov"> CMS.gov</a></li>
+		<li><a href="https://qpp.cms.gov/accessibility"> QPP's Accesibility Statement</a></li>
+		<li> Contact Help Desk </li>
+		<li>Privacy Policy</li>
+	</ul>
+	</p>
+</div>
+</tr>
+		
+</body>
+</html>
